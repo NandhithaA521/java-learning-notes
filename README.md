@@ -19,3 +19,7 @@
 ## Day5
 
 -Reference Variable , Deep copies , Shallow copies.
+
+## Day6
+
+-Memory Management , Initialization Blocks.
