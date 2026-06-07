@@ -35,3 +35,7 @@
 ## Day9
 
 -Typecasting , Method Overloading.
+
+## Day10
+
+-Has a relationship, polymorphism.
