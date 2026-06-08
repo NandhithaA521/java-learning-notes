@@ -39,3 +39,7 @@
 ## Day10
 
 -Has a relationship, polymorphism.
+
+## Day11
+
+-Abstract Class(Abstraction).
