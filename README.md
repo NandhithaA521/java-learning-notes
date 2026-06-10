@@ -43,3 +43,11 @@
 ## Day11
 
 -Abstract Class(Abstraction).
+
+## Day12
+
+-Abstract Class(Interface)
+
+## Day13
+
+-Functional Interface , Marker Interface , Access Modefier .
