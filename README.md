@@ -51,3 +51,7 @@
 ## Day13
 
 -Functional Interface , Marker Interface , Access Modefier .
+
+## Day14
+
+-Encapsulation , Java Bean Class , Singleton Class , Inner Class.
